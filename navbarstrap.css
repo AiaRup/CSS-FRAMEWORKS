@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+}
+
+.gray-navbar {
+  background-color: rgb(82, 80, 80);
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
+.gray-navbar ul {
+  margin: 0;
+  text-align: center;
+}
+
+.gray-navbar li {
+  display: inline-block;
+  text-transform: uppercase;
+  font-weight: bold;
+  line-height: 50px;
+  color: rgb(155, 150, 150);
+  padding: 0 20px;
+}
